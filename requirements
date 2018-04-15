@@ -1,0 +1,13 @@
+Requirements for the Bulls and Cows Game
+Input
+-Input is plain text
+-A five-letter word with no repeating letters
+Output
+-Numbers
+-Bull number = how many letters correct and in the right place
+-Cow number = how many correct letters are in the wrong place
+-Boolean value that states whether the person has won the game or not
+Tasks
+-User has 10 tries to put in the correct word to win the game
+Assets
+-ASCII art of a bull and cow for ATMOSPHERE
